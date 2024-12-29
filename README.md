@@ -21,3 +21,8 @@ localhost:5000/osirase/2...3までです。
 localhost:5000/shutdown/nekosaikyoで、シャットダウンします。
 
 以上！
+
+# 謝辞
+このレポジトリにあるsound*.mp3はサンプルファイルで、
+Voiced by https://CoeFont.cloud ひろゆき
+です。
